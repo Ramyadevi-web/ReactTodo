@@ -1,0 +1,42 @@
+.cardContainer{
+  background-color: #7fffd480;
+  width: 500px;
+  height: 280px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 60px;
+}
+.dropdown-button{
+  background-color: #fd7380e0;
+  border-color: #fd7380e0;
+  color: white;
+  width: 150px;
+  height: 40px;
+}
+.footerButton>.btn{
+  width: 120px;
+  height: 45px;
+  color: white;
+}
+
+.greenbackground{
+  background-color: rgb(33, 138, 103);
+  color: white;
+}
+.greenColor{
+  color:rgb(33, 138, 103);
+}
+.deleteButton{
+  background-color: chocolate;
+}
+.filterButton{
+  width: auto !important;
+  height: 40px !important;
+}
+.inputField{
+  width: 400px;
+}
+.custom-input:focus {
+  border-color: #28a745; /* Green Border on Focus */
+  box-shadow: 0 0 5px #28a745;
+}
