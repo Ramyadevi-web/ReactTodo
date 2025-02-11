@@ -6,7 +6,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Card from './components/Card';
 import Filter from './components/Filter';
 import AddTodo from './components/AddTodo';
-import EditTodo from './components/editTodo';
+import EditTodo from './components/EditTodo';
 import { useState } from 'react';
 import { Navigate } from 'react-router-dom';
 
